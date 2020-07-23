@@ -2,6 +2,7 @@
 Gunakan dengan bijak ?
 
 Tool Spam call
+
 $ pkg update && pkg upgrade
 
 $ pkg install python -y
